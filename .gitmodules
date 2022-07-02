@@ -18,12 +18,12 @@
 	branch = nxdk
 [submodule "lib/pdclib"]
 	path = lib/pdclib
-	url = https://github.com/XboxDev/nxdk-pdclib.git
-	branch = nxdk
+	url = https://github.com/glebm/nxdk-pdclib.git
+	branch = devilutionx
 [submodule "lib/libcxx"]
 	path = lib/libcxx
-	url = https://github.com/XboxDev/nxdk-libcxx.git
-	branch = nxdk
+	url = https://github.com/glebm/nxdk-libcxx.git
+	branch = patch-1
 [submodule "lib/zlib"]
 	path = lib/zlib/zlib
 	url = https://github.com/madler/zlib.git
